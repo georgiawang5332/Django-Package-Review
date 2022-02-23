@@ -1,0 +1,12 @@
+1.如何從github 上面的專案download下來參考: https://xken831.pixnet.net/blog/post/467231462-%5Bpython%5D%5Bpycharm%5D%5Bgit%5D-pycharm-%E6%95%B4%E5%90%88-git
+有一段因為pycharm更新所以換方式操作，git > clone > 貼上專案URL 即可。
+2.
+py -m venv dpr_enve
+cd dpr_enve\Scripts > activate
+pip install django
+django-admin startproject packagereview
+django-admin startapp
+
+3.python .gitignore:  .gitignore file > https://github.com/github/gitignore/blob/main/Python.gitignore
+
+
